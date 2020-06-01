@@ -1,0 +1,12 @@
+.itemProgress {
+    height: 5px;
+    display: block;
+    background-color: cornflowerblue;
+}
+
+.boxProgress {
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid cornflowerblue;
+    border-bottom: 1px solid cornflowerblue;
+}

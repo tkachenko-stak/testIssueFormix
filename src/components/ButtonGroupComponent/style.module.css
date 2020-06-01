@@ -1,0 +1,11 @@
+.buttonGroupItem {
+    font-size: 9px !important;
+    padding: 10px 15px !important;
+    width: 33.5% !important;
+    border-color: lightgray !important;
+    /*color:grey !important;*/
+}
+
+.buttonGroup {
+    width: 85%;
+}

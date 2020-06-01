@@ -1,0 +1,65 @@
+.mainStyle {
+    display: flex;
+    justify-content: center;
+    height: 290px;
+}
+
+.mainStyle form {
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+}
+
+.someButton {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.oneButton {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button {
+    color: cornflowerblue;
+    font-size: 14px;
+    cursor: pointer;
+    transition: .3s;
+    font-weight: bold;
+    padding: 10px 10px;
+    background: none;
+    border:none;
+    outline: none;
+}
+
+.button:active {
+    list-style: none;
+    border: none;
+    outline: none;
+}
+
+.button:hover{
+    color: crimson;
+}
+
+.errorMessage {
+    margin: 0;
+    font-size: 10px;
+    text-align: center;
+    color: red;
+    height: 15px;
+}
+
+.titleBoxStyle {
+    text-align: center;
+}
+.titleTextStyle {
+    color: cornflowerblue;
+    margin: 10px;
+}
+
